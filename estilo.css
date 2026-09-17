@@ -4,6 +4,7 @@ html{
 
 body{
     background-image: url(imagens/bg.jpg);
+    backgroud-size: contin;
     background-repeat: no-repeat;
 }
 
