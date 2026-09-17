@@ -1,6 +1,10 @@
 # 🎮 Jogo Mata-Mosquito
 
-Projeto desenvolvido para praticar conceitos de desenvolvimento web, lógica de programação e interação com o usuário utilizando JavaScript.
+Aplicação web desenvolvida para praticar conceitos de desenvolvimento front-end, lógica de programação e interação com o usuário.
+
+## 🖥️ Preview
+
+![Preview do projeto](images/preview_matamosquito.png)
 
 ## 📌 Sobre o projeto
 
