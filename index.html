@@ -26,39 +26,42 @@
     
         </script>
     </head>
-    <body>
-        <div class="container">
-            <div class="row">
-                <div class="col">
-                    <div class="d-flex justify-content-center">
-                        <img src="imagens/game.png" alt="game.png">
+    <div class="container">
+        <body>
+            <div class="container">
+                <div class="row">
+                    <div class="col">
+                        <div class="d-flex justify-content-center">
+                            <img src="imagens/game.png" alt="game.png">
+                        </div>
+                    </div>
+                </div>
+        
+                <div class="row">
+                    <div class="col">
+                        <div class="d-flex justify-content-center">
+                           
+                            <div class="mb-2">
+                                <select class="form-control" id="nivel">
+                                <option value="">-- Selecione o Nível --</option>
+                                <option value="normal">Normal</option>
+                                <option value="dificil">Difícil</option>
+                                <option value="chucknorris">Chuck Norris</option>
+                                </select>
+                            </div>    
+                        </div>
+                    </div>
+                </div>
+        
+                <div class="row">
+                    <div class="col">
+                        <div class="d-flex justify-content-center">
+                            <button type="button" class="btn btn-danger btn-lg" onclick="iniciarNivel()">Iniciar Jogo</button>
+                        </div>
                     </div>
                 </div>
             </div>
+        </body>
+    </div>
     
-            <div class="row">
-                <div class="col">
-                    <div class="d-flex justify-content-center">
-                       
-                        <div class="mb-2">
-                            <select class="form-control" id="nivel">
-                            <option value="">-- Selecione o Nível --</option>
-                            <option value="normal">Normal</option>
-                            <option value="dificil">Difícil</option>
-                            <option value="chucknorris">Chuck Norris</option>
-                            </select>
-                        </div>    
-                    </div>
-                </div>
-            </div>
-    
-            <div class="row">
-                <div class="col">
-                    <div class="d-flex justify-content-center">
-                        <button type="button" class="btn btn-danger btn-lg" onclick="iniciarNivel()">Iniciar Jogo</button>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </body>
 </html>
