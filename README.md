@@ -6,6 +6,24 @@ Aplicação web desenvolvida para praticar conceitos de desenvolvimento front-en
 
 ![Preview do projeto](imagens/preview_matamosquito.png)
 
+## 🎯 Principais funcionalidades
+
+* Seleção de nível de dificuldade:
+
+  * Normal
+  * Difícil
+  * Chuck Norris
+* Início da partida através do botão **Iniciar Jogo**
+* Tempo de partida de 20 segundos
+* Mosquitos aparecem em diferentes posições da tela
+* Sistema de vidas
+* Perda de vida quando o mosquito desaparece antes de ser eliminado
+* Tela de vitória ao concluir a partida
+* Tela de derrota quando as condições de derrota são atingidas
+* Diferentes níveis de dificuldade
+* Opção de reiniciar o jogo após vitória ou derrota
+
+
 ## 📌 Sobre o projeto
 
 O Jogo Mata-Mosquito é uma aplicação web interativa na qual o jogador precisa clicar nos mosquitos que aparecem na tela dentro de um determinado período.
