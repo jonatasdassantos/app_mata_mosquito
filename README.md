@@ -4,7 +4,7 @@ Aplicação web desenvolvida para praticar conceitos de desenvolvimento front-en
 
 ## 🖥️ Preview
 
-![Preview do projeto](images/preview_matamosquito.png)
+![Preview do projeto](imagens/preview_matamosquito.png)
 
 ## 📌 Sobre o projeto
 
